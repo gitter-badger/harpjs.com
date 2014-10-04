@@ -1,4 +1,5 @@
 # harpjs.com
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/n370/harpjs.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 The [Harp](https://github.com/sintaxi/harp) app for [harpjs.com](http://harpjs.com), which contains the [documentation](http://harpjs.com/docs), [blog](http://harpjs.com/blog), and more.
 
